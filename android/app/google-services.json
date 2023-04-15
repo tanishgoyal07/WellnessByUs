@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833173623688",
+    "project_id": "induwellnessby4",
+    "storage_bucket": "induwellnessby4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833173623688:android:11ec696defee947f3ca03d",
+        "android_client_info": {
+          "package_name": "com.example.indu_wellness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833173623688-hse5u2phhpvar2mfd7org8mhdck43ha0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARhZBiKKMAjByvVlHG8QEvRVIcW7C3JYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833173623688-hse5u2phhpvar2mfd7org8mhdck43ha0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
