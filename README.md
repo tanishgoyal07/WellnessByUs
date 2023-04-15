@@ -24,10 +24,11 @@ flutter run
 ```
 
 ## APK File
-[Download Here]()
+[Download Here](https://github.com/madhavmehndiratta/WellnessByUs/blob/main/app-release.apk)
 
 ## Technologies Used
 - Flutter
+- Firebase
 - Google Maps API
 
 ## Team Details:
