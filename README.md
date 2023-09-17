@@ -35,3 +35,8 @@ flutter run
 1. [Tanish Goyal](https://github.com/tanishgoyal07)
 2. [Pankaj Khushwaha](https://github.com/panka17)
 3. [Madhav Mehndiratta](https://github.com/madhavmehndiratta)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
